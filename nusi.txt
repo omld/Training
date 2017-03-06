@@ -1,6 +1,6 @@
 test nusi
 in feature
 sunt in test
-line1 ovi
-line2 ovi
+linia 1 nsi
+linia 2 nusi
 
